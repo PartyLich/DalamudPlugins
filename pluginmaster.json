@@ -1,0 +1,24 @@
+[
+    {
+        "Author": "Taurenkey, PartyLich",
+        "Name": "Saucier",
+        "Punchline": "Reduce the Gold Saucer grind.",
+        "Description": "Automates certain Gold Saucer mini-games.",
+        "Tags": [
+            "gold saucer",
+            "mgp",
+            "automation"
+          ],
+          "InternalName": "Saucy",
+          "RepoUrl": "https://github.com/PartyLich/Saucy",
+          "DownloadCount": 0,
+          "LastUpdate": 1696597899287,
+          "DownloadLinkInstall": "https://github.com/PartyLich/Saucy/releases/latest/download/latest.zip",
+          "DownloadLinkUpdate": "https://github.com/PartyLich/Saucy/releases/latest/download/latest.zip",
+          "AssemblyVersion": "1.3.0.2",
+          "ApplicableVersion": "any",
+          "DalamudApiLevel": "9",
+          "Changelog": "Fix Triple Triad sometimes not playing",
+          "IconUrl": "https://raw.githubusercontent.com/PartyLich/DalamudPlugins/main/img/icon-bl3wub19h2u.png"
+    }
+]
