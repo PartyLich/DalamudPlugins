@@ -1,7 +1,10 @@
 # DalamudPlugins
 Custom Dalamud plugin repository.
 
-URL: `https://raw.githubusercontent.com/PartyLich/DalamudPlugins/main/pluginmaster.json`
+URL:
+```
+https://raw.githubusercontent.com/PartyLich/DalamudPlugins/main/pluginmaster.json
+```
 
 ## Contents
 
@@ -12,7 +15,9 @@ Assuming you are already using FFXIV quick launcher with it's ingame features en
 1. Click "Settings" button.
 1. Go to "Experimental" tab.
 1. Find "Custom Plugin Repositories" section and paste the following link into text input field:
-  `https://raw.githubusercontent.com/PartyLich/DalamudPlugins/main/pluginmaster.json`
+  ```
+  https://raw.githubusercontent.com/PartyLich/DalamudPlugins/main/pluginmaster.json
+  ```
 1. Click "Save" button.
 
 After a short reload new plugins will be available in the list. Sometimes you might need to restart the game.
